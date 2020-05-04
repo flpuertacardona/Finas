@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Contrataciones\" />
+    <Folder Include="Models\Admisiones\" />
+    <Folder Include="Models\Academicos\" />
+    <Folder Include="Models\Investigaciones\" />
+    <Folder Include="Models\Comercial\" />
+    <Folder Include="Models\Financieros\" />
+    <Folder Include="Models\Consultas\" />
+    <Folder Include="Models\Indicadores\" />
+    <Folder Include="Models\Suministros\" />
+  </ItemGroup>
+
 </Project>
